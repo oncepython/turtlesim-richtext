@@ -11,6 +11,7 @@ name: Build and Publish
 on:
   push:
     tags: "v*"
+  workflow_dispatch:
 
 permissions:
   contents: read
