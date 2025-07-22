@@ -9,8 +9,8 @@
 name: Build and Publish
 
 on:
-  release:
-    tag: "v*"
+  push:
+    tags: "v*"
 
 permissions:
   contents: read
