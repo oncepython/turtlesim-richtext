@@ -4,6 +4,7 @@
 > 该库目前仍在开发，没有实际内容。
 
 ![PyPI](https://img.shields.io/pypi/v/turtlesim-richtext)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/turtlesim-richtext)
 [![Build and Publish](https://github.com/oncepython/turtlesim-richtext/actions/workflows/python-publish.yml/badge.svg)](https://github.com/oncepython/turtlesim-richtext/actions/workflows/python-publish.yml)
 ![License](https://img.shields.io/github/license/oncepython/turtlesim-richtext)
 
