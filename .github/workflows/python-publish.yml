@@ -8,7 +8,9 @@
 
 name: Build and Publish
 
-on: workflow_dispatch
+on:
+  release:
+    tag: "v*"
 
 permissions:
   contents: read
